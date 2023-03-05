@@ -1,4 +1,4 @@
-# Final Julia project
+# Julia project
 
 The project is divided into two parts:
 1. Named Entity Recognition using LSTM performed on conll2003 and OntoNotes5.0 datasets
